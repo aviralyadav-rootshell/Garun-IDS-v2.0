@@ -1,0 +1,12 @@
+AFCM
+afcmtrain.sh
+ANN
+anntrain.sh
+dataPreparation
+garun-cli.sh
+GARUN.sh
+garun-web-menu.sh
+garun-web.sh
+generatedata.sh
+list.txt
+setup.sh
